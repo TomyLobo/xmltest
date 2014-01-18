@@ -1,0 +1,9 @@
+author: TomyLobo
+database: false
+description: A test plugin for the new XML message format.
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: eu.tomylobo.xmltest.XmlTest
+name: xmltest
+startup: postworld
+url: http://tomylobo.eu/
+version: '1.0'
